@@ -1,4 +1,3 @@
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hyeonbeen%20Jeon&animation=&fontColor=FFFFFF&fontSize=70" />
     </div>
@@ -15,8 +14,9 @@
     <br>
      <div align= "center"> <a href=mailto:jnhnbn01@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jnhnbn01@gmail.com"> </a>
          <a href=https://jnhnbn01.notion.site/intro> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://jnhnbn01.notion.site/intro"> </a>
-          </div>
+         <a href=https://www.instagram.com/hbj.n3/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hbj.n3/"> </a>
     </div>
+     </div>
     <br>
     <div align= "left"> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027.  <br>
