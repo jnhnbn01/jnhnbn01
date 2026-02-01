@@ -1,10 +1,10 @@
-## Hi there 👋
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hyeonbeen%20Jeon&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. </li></li>I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027. In particular, </li></li>I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low<li>power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -24,6 +24,7 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjnhnbn01%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
+    >
     
 <!--
 **jnhnbn01/jnhnbn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
