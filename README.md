@@ -8,7 +8,6 @@
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027. In particular, I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low<li>power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
