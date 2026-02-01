@@ -19,7 +19,7 @@
     </div>
     <br>
     <div align= "left"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027.
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027.  <br>
         <br> In particular, I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
     </div>
     <br>
