@@ -18,9 +18,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. <br> I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027. In particular, I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low<li>power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
     </div>
     <br>
-    
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:jnhnbn01@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jnhnbn01@gmail.com"> </a>
          <a href=https://jnhnbn01.notion.site/intro> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://jnhnbn01.notion.site/intro"> </a>
           </div>  <br> 
