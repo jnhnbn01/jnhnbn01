@@ -2,11 +2,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hyeonbeen%20Jeon&animation=&fontColor=FFFFFF&fontSize=70" />
     </div>
-    <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. </div>
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027. In particular, I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low<li>power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
-    </div>
     <br>
     <div align= "center">
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
@@ -17,6 +12,13 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           </div>
     </div>
+    <br>
+    <div align= "left"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. <br> I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027. In particular, I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low<li>power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
+    </div>
+    <br>
+    
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:jnhnbn01@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jnhnbn01@gmail.com"> </a>
