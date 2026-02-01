@@ -24,6 +24,9 @@
     </div>
     <br>
     
+[![HitCount](https://hits.dwyl.com/jnhnbn01/jnhnbn01.svg?style=flat-square)](https://hits.dwyl.com/jnhnbn01/jnhnbn01.svg?style=flat-square)
+
+
 <!--
 **jnhnbn01/jnhnbn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
