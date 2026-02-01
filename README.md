@@ -2,7 +2,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hyeonbeen%20Jeon&animation=&fontColor=000000&fontSize=70" />
     </div>
-    <div align= "center"> 
+    <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student @ Yonsei University, majoring in physics and electrical & electronic engineering. </div>
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am currently studying machine learning and computer vision with the goal of entering a combined MS–PhD program in the spring of 2027. In particular, I am interested in neural network compression (e.g., network quantization) and physical AI in the context of low<li>power devices, as well as diffusion models motivated by a strong interest in mathematics. </div> 
