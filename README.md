@@ -17,6 +17,7 @@
           </div>
     </div>
     <div align= "center">
+        
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:jnhnbn01@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jnhnbn01@gmail.com"> </a>
          <a href=https://jnhnbn01.notion.site/intro> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://jnhnbn01.notion.site/intro"> </a>
