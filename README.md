@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hyeonbeen%20Jeon&animation=&fontColor=FFFFFF&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hyeonbeen%20Jeon&animation=&fontColor=FFFFFF&fontSize=60" />
 </div> <br>
 
 <div align= "center"; style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
