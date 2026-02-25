@@ -11,7 +11,6 @@
 </div> <br>
 
 <div align= "center"> <a href=mailto:jnhnbn01@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jnhnbn01@gmail.com"> </a>
-     <a href=https://jnhnbn01.notion.site/intro> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://jnhnbn01.notion.site/intro"> </a>
      <a href=https://www.instagram.com/hbj.n3/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hbj.n3/"> </a>
 </div> <br>
 
